@@ -1,0 +1,14 @@
+
+Product Expire Date Monitor
+user flow:- will have page to add new product, listing products added before n delete product ,
+ every item will have three fields as product name ,
+expire date and period, 
+when user change expire date the period field will be updated with the residual days for the product to be expired in the disabled period field, 
+after entering some products user can save updated products.
+constrains:- 
+- No backend,
+- no database, no framework 
+just pure js, user will open this page every day to monitor residual days of every product n can add new products
+ and system must be responsive and cross-browser compatible, 
+ for CSS you can use bootstrap or right direct CSS,
+  we will look in your js code n we expect clean n more object-oriented code.
